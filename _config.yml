@@ -2,7 +2,7 @@ title: Welcome to Marcus Munyiri First Time Blog
 author: Marcus Munyiri
 email: marcusmunyiri@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-This is a good testing
+#This is a good testing
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
