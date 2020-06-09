@@ -3,7 +3,7 @@
 Its great to have you review my Personal Profile
 
 
-https://github.com/Mmunyiri/MarcusMunyiri_AP_Computer/blob/master/MarcusMunyiri-1.jpg
+![MarcusMunyiri-1](https://user-images.githubusercontent.com/66687097/84206092-755e4380-aa7c-11ea-9e88-2d091fa96fe2.jpg)
 
 
 I live in East Brunswick
