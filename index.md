@@ -9,7 +9,7 @@ Name: Marcus Munyiri
 
 Social Media
 
-![Marcus](https://www.instagram.com/m_m_munyiri/)
+(https://www.instagram.com/m_m_munyiri/)
 
 
 I live in East Brunswick
