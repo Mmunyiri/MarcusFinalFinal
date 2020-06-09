@@ -7,9 +7,9 @@ Name: Marcus Munyiri
 ![MarcusMunyiri-1](https://user-images.githubusercontent.com/66687097/84206092-755e4380-aa7c-11ea-9e88-2d091fa96fe2.jpg)
 
 
-Social Media:
+Social Media
 
-https://www.instagram.com/m_m_munyiri/
+![Marcus](https://www.instagram.com/m_m_munyiri/)
 
 
 I live in East Brunswick
